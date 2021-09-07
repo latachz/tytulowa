@@ -1,4 +1,4 @@
-# [Tytułowa](https://zsk-poznan.github.io/tytulowa/)
+# [Tytułowa](https://latachz.github.io/tytulowa/)
 
 > Simple web app that generates title pages for Działalność gospodarcza notebooks.
 
