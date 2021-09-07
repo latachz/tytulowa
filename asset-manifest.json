@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tytulowa/static/css/main.fa22617a.chunk.css",
+    "main.css": "/tytulowa/static/css/main.6950d563.chunk.css",
     "main.js": "/tytulowa/static/js/main.b72a13ed.chunk.js",
     "main.js.map": "/tytulowa/static/js/main.b72a13ed.chunk.js.map",
     "runtime-main.js": "/tytulowa/static/js/runtime-main.e84f48b5.js",
@@ -8,15 +8,15 @@
     "static/js/2.cb27af82.chunk.js": "/tytulowa/static/js/2.cb27af82.chunk.js",
     "static/js/2.cb27af82.chunk.js.map": "/tytulowa/static/js/2.cb27af82.chunk.js.map",
     "index.html": "/tytulowa/index.html",
-    "precache-manifest.5dddcfa4d83be9da0dc0028d5e1a64af.js": "/tytulowa/precache-manifest.5dddcfa4d83be9da0dc0028d5e1a64af.js",
+    "precache-manifest.c3449d411a712c708b5fdfbc593d21c9.js": "/tytulowa/precache-manifest.c3449d411a712c708b5fdfbc593d21c9.js",
     "service-worker.js": "/tytulowa/service-worker.js",
-    "static/css/main.fa22617a.chunk.css.map": "/tytulowa/static/css/main.fa22617a.chunk.css.map",
+    "static/css/main.6950d563.chunk.css.map": "/tytulowa/static/css/main.6950d563.chunk.css.map",
     "static/js/2.cb27af82.chunk.js.LICENSE.txt": "/tytulowa/static/js/2.cb27af82.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e84f48b5.js",
     "static/js/2.cb27af82.chunk.js",
-    "static/css/main.fa22617a.chunk.css",
+    "static/css/main.6950d563.chunk.css",
     "static/js/main.b72a13ed.chunk.js"
   ]
 }
