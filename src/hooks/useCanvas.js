@@ -9,7 +9,7 @@ const useCanvas = (canvasRef, name, klasa) => {
 		logo.src = "/tytulowa/logo.png";
 
 		canvas.width = 800;
-		canvas.height = 500;
+		canvas.height = 1000;
 
 		ctx.fillStyle = "#ca4b4b";
 		ctx.fillRect(0, 0, ctx.canvas.width, ctx.canvas.height);
@@ -35,17 +35,20 @@ const useCanvas = (canvasRef, name, klasa) => {
 
 		ctx.textAlign = "center";
 
-		ctx.font = "700 48px Montserrat";
-		ctx.fillText("Geografia", ctx.canvas.width / 2, 100);
+		ctx.font = "700 38px Montserrat";
+		ctx.fillText("Działalność gospodarcza w branży", ctx.canvas.width / 2, 300);
 
-		ctx.font = "700 32px Montserrat";
-		ctx.fillText("Technikum Komunikacji", ctx.canvas.width / 2, 150);
+		ctx.font = "400 38px Montserrat";
+		ctx.fillText("\"Twój własny spichlerz\"", ctx.canvas.width / 2, 370);
 
 		ctx.font = "400 42px Montserrat";
-		ctx.fillText(name, ctx.canvas.width / 2, 250);
+		ctx.fillText(name, ctx.canvas.width / 2, 460);
 
 		ctx.font = "400 30px Montserrat";
-		ctx.fillText(`Klasa ${klasa}`, ctx.canvas.width / 2, 285);
+		ctx.fillText(`Klasa ${klasa}`, ctx.canvas.width / 2, 500);
+
+		ctx.font = "400 32px Montserrat";
+		ctx.fillText("Technikum Komunikacji", ctx.canvas.width / 2, 600);
 
 		const ratio =
 			window.screen.availWidth > 800
